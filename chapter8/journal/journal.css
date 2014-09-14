@@ -1,3 +1,21 @@
 body {
   font-family: Verdana, Geneva, Arial, sans-serif;
+  font-size: small;
+}
+
+h1 {
+	font-family: sans-serif;
+	font-size: 250%;
+}
+
+h2 {
+	font-size: 220%;
+}
+
+p {
+	font-weight: bold;
+}
+
+blockquote {
+	font-style: italic;
 }
